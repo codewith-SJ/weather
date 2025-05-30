@@ -60,7 +60,7 @@ submitButton.addEventListener('click', (e) => {
                         forecastItem.classList.add('card');
                         forecastItem.innerHTML = `
                         <div class="card">
-                  <img class="background" src="./assets/clouds.jpg" alt="">
+                  <img class="background" src="./assets/cloud.jpg" alt="">
           
                   <div class="card-content">
                     <span class="ezbody">${index + 1} day</span>
